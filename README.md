@@ -1,5 +1,5 @@
 Source Code dari proyek percobaan game di http://komproan.hol.es/<br>
-The Game : http://komproan.hol.es/game/space_shooter/
+The Game : http://komproan.hol.es/game/card_match/
 
 ########
 
