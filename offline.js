@@ -1,4 +1,4 @@
-﻿{
+{
 	"version": 1498560447,
 	"fileList": [
 		"data.js",
